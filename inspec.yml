@@ -1,0 +1,8 @@
+name: detectionlab-wef
+title: DetectionLab wef baseline - InSpec Profile
+maintainer: juju4
+copyright: juju4
+copyright_email: juju4@users.noreply.github.com
+license: All Rights Reserved
+summary: An InSpec Compliance Profile for DetectionLab WEF role
+version: 0.1.0
